@@ -40,14 +40,23 @@ The dashboard should provide real-time insights into key performance indicators 
 
 ## Process
 The project began with identifying the dealership's need for a real-time, interactive sales dashboard. Relevant data, including car sales transactions, customer preferences, and regional dealer performance, was collected from internal records. This data was cleaned, formatted, and transformed using Power BI tools.
-
 A proper data model was built by creating relationships between tables and time-based measures (YTD, MTD, YOY) using DAX formulas. The dashboard was then designed with user-friendly visuals like KPI cards, pie charts, line charts, and maps to analyze key performance indicators and trends.
-
 After testing for accuracy and performance, the dashboard was published on Power BI Service for easy access and sharing. It now helps dealership managers monitor sales, compare performance, understand customer preferences, and make data-driven decisions efficiently.
 
 ## Dashboard 
 ![Screenshot_(495)](https://github.com/5Rahul5/Data-Analysis-Dashboard/blob/main/Dashboard_1.png)
 ![Screenshot_(495)](https://github.com/5Rahul5/Data-Analysis-Dashboard/blob/main/Dashboard_2.png)
+
+## Key Findings and Business Insights
+ SUVs are the highest-selling category (27% of total sales). 
+ Recommendation: Increase SUV inventory and promotions.
+ White-coloured cars are the most preferred (47% of total sales). 
+ Recommendation: Increase white colour stock availability.
+ Austin region leads with 18% of total car sales. 
+ Recommendation: Expand dealership presence in this region.
+
+## Conclusion 
+The Car Sales Analysis Dashboard provides real-time, actionable insights that can optimize sales strategies, enhance customer experience, and improve dealership performance. Improved Sales Monitoring: Data-driven approach enables faster decision-making. Better Inventory Planning: Understanding car demand helps in efficient stock management. Targeted Marketing Campaigns: Insights from customer preferences improve marketing ROI. Higher Profitability: By identifying best-selling models and regions, the company can maximize revenue.
 
 
 
