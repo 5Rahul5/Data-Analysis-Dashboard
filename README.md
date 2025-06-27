@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I Developed a comprehensive project in PowerBI, Creating multiple dashboards and tables to analyze the data. This process involves serval stages, Including Data Processing, Data cleaning, And Data Visualization. 
+# Car-Sales-Analysis-Dashboard(Interactive Dashboard Creation using MS Power BI)
+##Project Objective
+The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
