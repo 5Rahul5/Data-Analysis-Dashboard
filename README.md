@@ -38,3 +38,13 @@ The dashboard should provide real-time insights into key performance indicators 
 ## Dashboard Interaction
 -<a href ="https://github.com/5Rahul5/Data-Analysis-Dashboard/blob/main/Cars%20Sales%20Dashboard.pbix">View Dashboard</a>
 
+## Process
+The project began with identifying the dealership's need for a real-time, interactive sales dashboard. Relevant data, including car sales transactions, customer preferences, and regional dealer performance, was collected from internal records. This data was cleaned, formatted, and transformed using Power BI tools.
+
+A proper data model was built by creating relationships between tables and time-based measures (YTD, MTD, YOY) using DAX formulas. The dashboard was then designed with user-friendly visuals like KPI cards, pie charts, line charts, and maps to analyze key performance indicators and trends.
+
+After testing for accuracy and performance, the dashboard was published on Power BI Service for easy access and sharing. It now helps dealership managers monitor sales, compare performance, understand customer preferences, and make data-driven decisions efficiently.
+
+## Dashboard
+
+
